@@ -3,7 +3,8 @@ version: 3
 groups:
   everything:
     reviewers:
-      teams: review-team
+      teams:
+        - review-team
     reviews:
       required: 1
       request: 1
