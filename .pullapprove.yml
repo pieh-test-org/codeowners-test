@@ -1,0 +1,10 @@
+version: 3
+
+groups:
+  everything:
+    reviewers:
+      teams: review-team
+    reviews:
+      required: 1
+      request: 1
+      request_order: given
